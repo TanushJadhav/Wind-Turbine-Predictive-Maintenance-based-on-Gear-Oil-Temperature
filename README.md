@@ -1,0 +1,1 @@
+# Wind-Turbine-Predictive-Maintenance-based-on-Gear-Oil-Temperature
